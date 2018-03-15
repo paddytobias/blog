@@ -9,11 +9,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Paddy Tobias # add your name
 author-img: photo.jpg # add your photo
-about-author: PhD in political science. Undertaking master of data science. Soon to be father. Lover of kelpies.  # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+about-author: PhD in political science. Master of data science in progress. Father-to-be. Lover of kelpies.  # add description
 social-github: paddytobias # add your Github handle
-social-linkedin: # add your Linkedin handle
+social-linkedin: https://au.linkedin.com/in/paddy-tobias-1286a234 # add your Linkedin handle
 social-email: paddytobias@me.com # add your Email address
 
 # Disqus
